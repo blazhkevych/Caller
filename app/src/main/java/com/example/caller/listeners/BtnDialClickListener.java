@@ -1,3 +1,4 @@
+/*
 package com.example.caller.listeners;
 
 import android.app.Activity;
@@ -20,3 +21,4 @@ public class BtnDialClickListener implements View.OnClickListener {
         activity.startActivity(intent);
     }
 }
+*/
